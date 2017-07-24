@@ -1,4 +1,4 @@
-package single_responsibility.bad;
+package singleResponsibility.bad;
 
 public abstract class AccountDebit {
 

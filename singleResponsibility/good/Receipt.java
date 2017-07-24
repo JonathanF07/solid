@@ -1,4 +1,4 @@
-package single_responsibility.good;
+package singleResponsibility.good;
 
 public abstract class Receipt {
 

@@ -1,8 +1,8 @@
-package open_closed.good;
+package openClosed.good;
 
-import open_closed.Item;
-import open_closed.Payment;
-import open_closed.Receipt;
+import openClosed.Item;
+import openClosed.Payment;
+import openClosed.Receipt;
 
 import java.util.List;
 

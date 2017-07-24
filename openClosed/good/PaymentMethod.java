@@ -1,6 +1,6 @@
-package open_closed.good;
+package openClosed.good;
 
-import open_closed.Payment;
+import openClosed.Payment;
 
 public interface PaymentMethod {
     

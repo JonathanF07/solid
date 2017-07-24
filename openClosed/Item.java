@@ -1,4 +1,4 @@
-package open_closed;
+package openClosed;
 
 public class Item {
     
