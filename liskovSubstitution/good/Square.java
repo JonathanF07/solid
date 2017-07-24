@@ -13,8 +13,6 @@ public class Square extends Shape {
         return sides;
     }
 
-
-
     public void setSides(int sides) {
         this.sides = sides;
     }

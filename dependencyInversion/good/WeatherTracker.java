@@ -1,7 +1,7 @@
 package dependencyInversion.good;
 
 public class WeatherTracker {
-    String currentConditions;
+    private String currentConditions;
 
     public void setCurrentConditions(String weatherDescription) {
         this.currentConditions = weatherDescription;
