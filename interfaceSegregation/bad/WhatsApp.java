@@ -39,7 +39,7 @@ public class WhatsApp implements Messenger {
 
     @Override
     public void quickAndGoneVideo() {
-        // Doesn't have this function
+        throw new UnsupportedOperationException();
         
     }
     

@@ -4,13 +4,13 @@ public class Snapchat implements Messenger {
 
     @Override
     public void videoCall() {
-        // Doesn't have this function
+        throw new UnsupportedOperationException();
 
     }
 
     @Override
     public void audioCall() {
-        // Doesn't have this function
+        throw new UnsupportedOperationException();
 
     }
 
@@ -22,20 +22,19 @@ public class Snapchat implements Messenger {
 
     @Override
     public void attachDocuments() {
-        // Doesn't have this function
+        throw new UnsupportedOperationException();
 
     }
 
     @Override
     public void attachPhotos() {
-        // Doesn't have this function
+        throw new UnsupportedOperationException();
 
     }
 
     @Override
     public void attachVideos() {
-        // Doesn't have this function
-
+        throw new UnsupportedOperationException();
     }
 
     @Override
